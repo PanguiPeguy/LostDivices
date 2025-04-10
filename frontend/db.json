@@ -1,0 +1,20 @@
+{
+  "utilisateurs": [
+    {
+      "id": "940d",
+      "nomUtilisateur": "pangui peguy",
+      "emailUtilisateur": "pangui@gmail.com",
+      "motDePasse": "12345678",
+      "confirmationMotDePasse": "12345678"
+    }
+  ],
+  "publications": [
+    {
+      "id": "1",
+      "titre": "new1",
+      "contenu": "publication1",
+      "date": "2025-03-27",
+      "utilisateurs": 1
+    }
+  ]
+}
